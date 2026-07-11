@@ -1,7 +1,7 @@
 Hi, I am @SpionQuark.. obviously...
 
 I am building some stuff using mostly the python framework "Quart". Also sometimes Electron. 
-Also, we are building a community: [Discord](discord.com/invites/6XxgH8nkfR)
+Also, we are building a community: [Discord](https://discord.com/invites/6XxgH8nkfR)
 It is perfect for people wanting to connect over coding or wanna learn how to code.
 
 <!---
